@@ -4,7 +4,7 @@ This guide outlines how to integrate Winston for logging and New Relic for appli
 
 ## Getting Started
 
-### 1. Instsall Dependencies
+### 1. Install Dependencies
 
 ```bash
 npm install
