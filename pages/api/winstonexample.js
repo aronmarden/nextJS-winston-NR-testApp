@@ -1,4 +1,4 @@
-require('newrelic');
+require('@newrelic/next')
 
 import logger from '../../utils/logger'; //Refer to the logger.js file in the utils folder
 export default function handler(req, res) {
